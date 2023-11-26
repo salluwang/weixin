@@ -17,7 +17,7 @@
 "note_ch": "",
 # 金句英文
 "note_en": "",
-"birthday1": {"name": "刘洪艺", "birthday": "2003-01-16"},
+"birthday1": {"name": "刘", "birthday": "2003-01-16"},
 # 生日2
 "birthday2": {"name": "##", "birthday": "2001-01-01"},
 # 在一起的日子，格式同上，暂不不支持农历
